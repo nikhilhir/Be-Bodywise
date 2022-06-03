@@ -30,8 +30,9 @@ https://medium.com/@nikhilhirulkar8/cw-project-bebodywise-clone-8ecf21b893cd
    
    
      <h1>Address and payment Page</h1>
-     
      ![Screenshot (33)](https://user-images.githubusercontent.com/97525857/171868019-fcf4004b-469b-4355-9129-3666561c14e0.png)
+     
+     
 
 
    
