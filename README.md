@@ -17,7 +17,7 @@ https://medium.com/@nikhilhirulkar8/cw-project-bebodywise-clone-8ecf21b893cd
  
  
  
-  <h1>Consaltation Page</h1>
+  <h1>Consultation Page</h1>
   
   ![Screenshot (32)](https://user-images.githubusercontent.com/97525857/171867712-139027f2-fd67-4ec7-a5ef-85d7425b99a2.png)
 
